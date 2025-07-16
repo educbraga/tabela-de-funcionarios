@@ -1,0 +1,15 @@
+/* BEM CSS Architecture - Main Import File */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Foundation */
+@import './variables.css';
+@import './base.css';
+
+/* Components */
+@import './components/app.css';
+@import './components/header.css';
+@import './components/search.css';
+@import './components/employee-table.css';
+@import './components/employee-card.css';
