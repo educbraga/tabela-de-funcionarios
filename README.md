@@ -1,4 +1,4 @@
-# 🎯 Tabela de Gestão de Funcionários
+# 🏭 Tabela de Funcionários
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="docs/Screen web - Employees.png" alt="Versão Desktop" width="45%" />
