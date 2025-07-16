@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="docs/Screen web - Employees.png" alt="Versão Desktop" width="45%" />
-  <img src="docs/Screen mobile - Employees.png" alt="Versão Mobile" width="45%" />
+  <img src="docs/Screen mobile - Employees.png" alt="Versão Mobile" width="13%" />
 </div>
 
 Uma aplicação responsiva e moderna construída com **React + TypeScript + CSS BEM** (https://getbem.com) que oferece uma experiência intuitiva para visualização e busca de informações de funcionários.
